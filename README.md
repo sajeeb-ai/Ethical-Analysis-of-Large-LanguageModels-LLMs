@@ -9,5 +9,4 @@ Bias in LLMs: LLMs can exhibit biases based on the data they were trained on. Th
 
 Prompt Engineering: Crafting inputs in a way that helps expose biases in the model's outputs.
 
-
 Quantification of Bias: Metrics such as the disparity in positive/negative sentiment, differences in generated content, or unequal treatment of different demographic categories.
